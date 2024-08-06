@@ -1,0 +1,33 @@
+console.log(0.1 + 0.2 === 0.3)
+console.log('5' - 3)
+console.log([10] == [10]
+console.log(1 + "1" - 1)
+console.log(typeof NaN)
+
+console.log(!!"false" === !!"true")
+console.log("1" - - "1")
+console.log(2 + '2' == '22')
+console.log([1, 2, 3] + [4, 5, 6])
+console.log(null + undefined)
+
+console.log(typeof null)
+console.log([] == ![])
+console.log(NaN === NaN)
+console.log(0 == '0')
+console.log(typeof typeof 1)
+
+console.log({} + [] + {} + [1])
+console.log("9" > "11");
+console.log("9" > 11);
+console.log("" > -11);
+console.log("rowdy" > "11");
+
+console.log(3 + true)
+console.log(null == undefined)
+console.log(null === undefined)
+console.log(30 + undefined)
+console.log(30 + null)
+
+console.log(5 > '15' < 5)
+console.log(5 < '15' < 5)
+console.log(7 < '15' > 5)

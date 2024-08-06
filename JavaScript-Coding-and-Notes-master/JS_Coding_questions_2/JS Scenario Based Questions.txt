@@ -1,0 +1,47 @@
+1. Write a function to reverse each word in a string.
+2. Write a function to find the number of characters in a string.
+3. Write a function to find the maximum value from an object.
+4. Create your own string method: `repeatify(3)` - the input string will be repeated three times.
+5. Write a JavaScript program to return the count of each character in a string.
+
+6. Write a JavaScript program to remove all occurrences of a specified character from a given string.
+7. Write a JavaScript program that takes two strings as input and returns true if they are anagrams of each other, otherwise returns false.
+8. Write a JavaScript program that converts a string to camelCase.
+9. Write a function to find the sum of all fruits in an array.
+10. Write a function to find two numbers which equal a given target sum.
+
+11. Write a function to find the shortest word in a list of strings.
+12. Write a function to separate palindrome numbers from an array.
+13. Write a function to return the count of characters in a string.
+14. Write a function to return the missing number from an array.
+15. Write a JavaScript program to group items of an array by category.
+
+16. Write a JavaScript program that takes an array of objects and returns an object containing the frequency of each property across all objects.
+17. How do you compare two objects in JavaScript, ensuring the identical order of keys?
+18. Collect books from an array of objects and return a collection of books as an array.
+19. Write a function that returns unique characters from a string.
+20. Write a function that takes an array of integers and returns the maximum product that can be obtained by multiplying any three numbers from that array.
+
+21. Write a function to move all zeros to the end of the array while maintaining the relative order of the non-zero elements.
+22. Write a function to check if a string is a palindrome, considering only alphanumeric characters and ignoring cases.
+23. Given a sorted array and a target value, write a function to return the index of the target value in the array using binary search. If the target is not found, return -1.
+24. Write a function to return the first non-repeating character in a string. If not available, return -1.
+25. Write a function to find the occurrence of each character in a given string.
+
+26. Write a function to flatten a nested array.
+27. Write a JavaScript program to remove duplicate elements from an array in different ways.
+28. Write a program to implement currying which gives the sum of three numbers.
+29. Write a program to generate a 6-digit random OTP.
+30. Write a program to find the intersection of two arrays.
+
+31. Write a custom array method for finding the max and min value.
+32. Write a JavaScript program to capitalize the first letter of each word in a given string.
+33. Write a JavaScript program that determines whether a given string contains only unique characters or not.
+34. Write a JavaScript function that checks if the sum of all integers in an array equals the highest integer in that array.
+35. Write a JavaScript program to find unique object property values.
+
+36. Write a JavaScript program to return all objects with the maximum value from a given JavaScript object.
+37. Write a JavaScript program that takes an array of numbers and returns the sum of all numbers that are divisible by both 3 and 5.
+38. Write a JavaScript program that takes two sorted arrays of numbers and merges them into a single sorted array.
+39. Write a JavaScript program that takes two objects and returns a new object with properties that exist in both input objects.
+40. Write a JavaScript program to find duplicate numbers from an array.
