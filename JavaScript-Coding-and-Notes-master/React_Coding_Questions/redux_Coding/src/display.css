@@ -1,0 +1,31 @@
+.data{
+    padding: 10px 10px;
+    width: 300px;
+   
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+ul{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+}
+li{
+    height: 50px;
+    width: 360px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 1px solid black;
+}
+#b{
+    background-color: skyblue;
+}
